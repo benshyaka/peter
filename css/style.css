@@ -424,7 +424,7 @@ a:focus {
     left: 0;
     display: flex;
     justify-content: space-between;
-    z-index: 9;
+    /* z-index: 9; */
 }
 
 .carousel .owl-nav .owl-prev,
